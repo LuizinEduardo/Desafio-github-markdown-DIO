@@ -1,6 +1,6 @@
 # Desafio-github-markdown-DIO
 
-📋 Projeto do Curso Certificação Github - DIO.
+📋 Projeto do Curso Formação Github Certification - DIO.
 
 🎯  Este projeto tem como ___objetivo___ colocar em pratica todo o **aprendizado** do curso até o momento, que são:
 
